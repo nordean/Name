@@ -1,14 +1,19 @@
 tml>
 <script type="text/javascript">
 
+//If all variables are used, please add another one. 
 var name1
 var name2
 var name3
 var name4
 var name5
 
+//Too add your name, just type in the next free variable = your name.
 name1 = "Ryan"
 name2 = "James"
+
+//just add your variable here.
+alert(name1 + name2)
 
 </script>
 </html>
