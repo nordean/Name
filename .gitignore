@@ -11,9 +11,10 @@ var name5
 //Too add your name, just type in the next free variable = your name.
 name1 = "Ryan"
 name2 = "James"
+name3 = "Gustavo"
 
 //just add your variable here.
-alert(name1 + name2)
+alert(name1 + name2 + name3)
 
 </script>
 </html>
